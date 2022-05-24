@@ -1,15 +1,10 @@
-# Basic Sample Hardhat Project
+# NFT token
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+Created own NFT token following [LearnWeb3's](https://www.learnweb3.io/tracks/freshman/nft-tutorial) Freshman NFT module.
 
-Try running some of the following tasks:
+Contract address : 0x4Ac04D7065D5a7f011CFc0c95B001211E832F63d
 
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+Check in [Rinkbey Etherescan](https://rinkeby.etherscan.io/)
+
+![Etherscan Transaction]()
+
